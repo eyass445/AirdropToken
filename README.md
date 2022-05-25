@@ -7,7 +7,7 @@
 ## What does this system include?
 
 1. The system contains 5000 addresses on the Theta network.
-2. It works on the React GS framework.
+2. It works on the React JS framework.
 3. A token was created on the Theta Testnet network.
 4. The smart contract was launched on Theta Testnet.
 5. Through the written smart contract, you can drop your currency to a group of addresses at one time.
